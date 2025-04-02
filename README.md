@@ -18,7 +18,7 @@ Ablation studies confirm the necessity of CFEMs and RSB for efficient compressio
 ![RD curves](figures/psnr_ms_ssim.png)
 
 ## Installation
-The code was tested with the following environment configurations. It may work with other versions.
+Our code was tested with the following environment configurations. It may work with other versions.
 
 - Ubuntu 20.04
 - NVIDIA Tesla T4 GPU
