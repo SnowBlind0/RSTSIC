@@ -9,10 +9,10 @@ To effectively extract non-local contextual information and efficiently capture 
 Ablation studies confirm the necessity of CFEMs and RSB for efficient compression and perceptual fidelity. The framework’s computational efficiency and robustness make it suitable for real-time applications such as autonomous driving and VR streaming. 
 
 ##  Key Features
+- **State-of-the-Art Performance**: Outperforms traditional codecs and learning-based compression methods on PSNR and MS-SSIM metrics.
 - **High Efficiency**: Structural reparameterization reduces inference complexity without sacrificing performance.
-- **State-of-the-Art Performance**: Outperforms HEVC, BPG, and learning-based models (DSIC, SASIC) on PSNR and MS-SSIM metrics.
 - **Robust Generalization**: Validated on both urban (Cityscapes) and indoor (InStereo2K) stereo datasets.
-- **Real-Time Ready**: Low latency (31.59s) and lightweight design (2.73M parameters).
+- **Real-Time Ready**: Low latency and lightweight design.
 
 ##  Evaluation Results
 ![RD curves](figures/psnr_ms_ssim.png)
