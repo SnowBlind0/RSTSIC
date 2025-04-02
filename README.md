@@ -29,19 +29,19 @@ Ablation studies confirm the necessity of CFEMs and RSB for efficient compressio
     <td>
       <div style="text-align: center">
         <img src="figures/RSTSIC_rec.png" width="90%" alt="RSTSIC">
-        <p><strong>(b) RSTSIC</strong> (bpp=0.043, PSNR=33.8)</p>
+        <p><strong>(b) RSTSIC</strong> bpp=0.043, PSNR=33.8</p>
       </div>
     </td>
     <td>
       <div style="text-align: center">
         <img src="figures/LDMIC_rec.png" width="90%" alt="LDMIC">
-        <p><strong>(c) LDMIC</strong> (bpp=0.045, PSNR=33.4)</p>
+        <p><strong>(c) LDMIC</strong> bpp=0.045, PSNR=33.4</p>
       </div>
     </td>
     <td>
       <div style="text-align: center">
         <img src="figures/SASIC_rec.png" width="90%" alt="SASIC">
-        <p><strong>(d) SASIC</strong> (bpp=0.052, PSNR=32.8)</p>
+        <p><strong>(d) SASIC</strong> bpp=0.052, PSNR=32.8</p>
       </div>
     </td>
   </tr>
