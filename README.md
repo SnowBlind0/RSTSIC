@@ -47,7 +47,7 @@ Ablation studies confirm the necessity of CFEMs and RSB for efficient compressio
   </tr>
 </table>
 
-## Installation
+## Environment Configuration
 Our code was tested with the following environment configurations. It may work with other versions.
 
 - Ubuntu 20.04
