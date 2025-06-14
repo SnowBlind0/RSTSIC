@@ -9,7 +9,7 @@ Official implementation of **RSTSIC: Reparameterized Swin Transformer Stereo Ima
 - **Real-Time Ready**: Low latency and lightweight design.
 
 ##  Evaluation Results
-![RD curves](figures/psnr_ms_ssim.png)
+
 
 ## Qualitative Results
 <table>
